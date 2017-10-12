@@ -1,2 +1,2 @@
 # bag-o-tricks
-Random collection of algorithms
+A random set of implementations I've chosen to do in my free time
